@@ -1,4 +1,4 @@
-Get correct color for line following in the lab
+How to get correct color for line following in the lab by Rongzi Xie.
 Line follower may work well and easy to be done in gazebo because the color is preset and you don't need to consider real life effect. However, if you ever try this in the lab, you'll find that many factors will influence the result of your color.
 
 Real Life Influencer:
